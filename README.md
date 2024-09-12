@@ -2,7 +2,7 @@
 
 ## Objetivo do Projeto
 
-O objetivo deste projeto é prever o score dos clientes utilizando regressão linear. O modelo é treinado com dados obtidos de um vídeo no YouTube, disponível em [este link](https://www.youtube.com/watch?v=lK8ANM7VkNU). O projeto explora várias técnicas de pré-processamento de dados e análise para garantir a precisão e a robustez das previsões.
+O objetivo deste projeto é prever o score dos clientes utilizando regressão linear. O modelo é treinado com dados obtidos de um vídeo no YouTube, disponível em [Canal Nerd dos Dados](https://www.youtube.com/watch?v=lK8ANM7VkNU). O projeto explora várias técnicas de pré-processamento de dados e análise para garantir a precisão e a robustez das previsões.
 
 
 ## Base de Dados
