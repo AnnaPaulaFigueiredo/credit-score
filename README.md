@@ -2,12 +2,14 @@
 
 ## Objetivo do Projeto
 
-O objetivo deste projeto é prever o score dos clientes utilizando regressão linear. O modelo é treinado com dados obtidos de um vídeo no YouTube, disponível em [este link](https://www.youtube.com/watch?v=lK8ANM7VkNU). O projeto explora várias técnicas de pré-processamento de dados e análise para garantir a precisão e a robustez das previsões.
+O objetivo deste projeto é prever o score dos clientes utilizando Aprendizado de Máquina. O modelo é treinado com dados obtidos de um vídeo no YouTube, disponível em [Canal Nerd dos Dados](https://www.youtube.com/watch?v=lK8ANM7VkNU).
+
+Este projeto é ~80% adaptado e modificado do real. Explora várias técnicas de pré-processamento de dados e análise para garantir a precisão e a robustez das previsões. Além de contar um com uma extensa análise de dados e técnicas para tratamento e qualidade dos dados.
 
 
 ## Base de Dados
 
-Os dados utilizados neste projeto foram obtidos do vídeo disponível em [https://www.youtube.com/watch?v=lK8ANM7VkNU](https://www.youtube.com/watch?v=lK8ANM7VkNU). No canal do Nerd dos Dados. Os documentos para _download_ estão disponíveis em: [https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbUxhRGFtZzZJT0hCVGowNUhTVXlqRk4wQkZhZ3xBQ3Jtc0tubGFGSG1iUkY1ZzB2Y1NLcThXdGRqb0I5QUttM08tUnNqdnpDSUsxRnJxY1poY1dQbElNYTJIeWlsQWFzS2NDbXFFbjJET1FRdXdocHo2cEZyMThQMGZ1MU9ENEcxUl9rUjVKTVd0N3pBM09xRlZmaw&q=https%3A%2F%2Fdocs.google.com%2Fuc%3Fexport%3Ddownload%26id%3D1TRX_JpDAhk-qtXZsZM-xJc43KCN287-E&v=lK8ANM7VkNU](Link para Material Didático). Esse material não é de minha autoria, e foi utilizado somente para fins de inspiração. Caso os links saiam do ar, não me reponsabilizo. ENtretanto subirei uma cópia da base de dados aqui no github.
+Os dados utilizados neste projeto estão disponíveis para _download_ em: [Link para Material Didático](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbUxhRGFtZzZJT0hCVGowNUhTVXlqRk4wQkZhZ3xBQ3Jtc0tubGFGSG1iUkY1ZzB2Y1NLcThXdGRqb0I5QUttM08tUnNqdnpDSUsxRnJxY1poY1dQbElNYTJIeWlsQWFzS2NDbXFFbjJET1FRdXdocHo2cEZyMThQMGZ1MU9ENEcxUl9rUjVKTVd0N3pBM09xRlZmaw&q=https%3A%2F%2Fdocs.google.com%2Fuc%3Fexport%3Ddownload%26id%3D1TRX_JpDAhk-qtXZsZM-xJc43KCN287-E&v=lK8ANM7VkNU). Esse material não é de minha autoria é do Canal Nerd dos Dados e foi utilizado somente para fins de inspiração. Caso os links saiam do ar, não me reponsabilizo. Entretanto subirei uma cópia da base de dados aqui no github.
 
 
 ## Características Principais
@@ -35,6 +37,6 @@ Os dados utilizados neste projeto foram obtidos do vídeo disponível em [https:
 
 - **Formatação essencial para Modelagem Computacional:** 
 
-### 5. Aplicação do Modelo de Regressão Linear
+### 5. Aplicação do Modelo de Aprendizado de Máquina
 
-- **Previsão do Score dos Clientes:** Utiliza a técnica de regressão linear para prever o score dos clientes com base nas características dos dados.
+- **Previsão do Score dos Clientes:** Utiliza a técnica de Aprendizado de Máquina para prever o score dos clientes com base nas características dos dados.
