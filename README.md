@@ -7,7 +7,7 @@ O objetivo deste projeto é prever o score dos clientes utilizando regressão li
 
 ## Base de Dados
 
-Os dados utilizados neste projeto foram obtidos do vídeo disponível em [https://www.youtube.com/watch?v=lK8ANM7VkNU](https://www.youtube.com/watch?v=lK8ANM7VkNU). No canal do Nerd dos Dados. Os documentos para _download_ estão disponíveis em: [https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbUxhRGFtZzZJT0hCVGowNUhTVXlqRk4wQkZhZ3xBQ3Jtc0tubGFGSG1iUkY1ZzB2Y1NLcThXdGRqb0I5QUttM08tUnNqdnpDSUsxRnJxY1poY1dQbElNYTJIeWlsQWFzS2NDbXFFbjJET1FRdXdocHo2cEZyMThQMGZ1MU9ENEcxUl9rUjVKTVd0N3pBM09xRlZmaw&q=https%3A%2F%2Fdocs.google.com%2Fuc%3Fexport%3Ddownload%26id%3D1TRX_JpDAhk-qtXZsZM-xJc43KCN287-E&v=lK8ANM7VkNU](Link para Material Didático). Esse material não é de minha autoria, e foi utilizado somente para fins de inspiração. Caso os links saiam do ar, não me reponsabilizo. ENtretanto subirei uma cópia da base de dados aqui no github.
+Os dados utilizados neste projeto estão disponíveis para _download_ em: [Link para Material Didático](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbUxhRGFtZzZJT0hCVGowNUhTVXlqRk4wQkZhZ3xBQ3Jtc0tubGFGSG1iUkY1ZzB2Y1NLcThXdGRqb0I5QUttM08tUnNqdnpDSUsxRnJxY1poY1dQbElNYTJIeWlsQWFzS2NDbXFFbjJET1FRdXdocHo2cEZyMThQMGZ1MU9ENEcxUl9rUjVKTVd0N3pBM09xRlZmaw&q=https%3A%2F%2Fdocs.google.com%2Fuc%3Fexport%3Ddownload%26id%3D1TRX_JpDAhk-qtXZsZM-xJc43KCN287-E&v=lK8ANM7VkNU). Esse material não é de minha autoria é do Canal Nerd dos Dados e foi utilizado somente para fins de inspiração. Caso os links saiam do ar, não me reponsabilizo. Entretanto subirei uma cópia da base de dados aqui no github.
 
 
 ## Características Principais
