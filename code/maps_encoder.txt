@@ -1,0 +1,144 @@
+{
+    "map_age": {
+        "IDADE": [
+            19.0,
+            27.0,
+            32.0,
+            48.0,
+            55.0,
+            65.0
+        ]
+    },
+    "map_range_employer": {
+        "TEMPO_ULTIMO_EMPREGO_MESES": [
+            8.0,
+            12.0,
+            18.0,
+            30.0,
+            80.0,
+            150.0
+        ]
+    },
+    "encoder_casa_propria": {
+        "N\u00e3o": 0,
+        "Sim": 1
+    },
+    "encoder_escolaridade": {
+        "Superior Cursando": 0,
+        "Superior Completo": 1,
+        "Segundo Grau Completo": 2
+    },
+    "encoder_estado_civil": {
+        "Solteiro": "ESTADO_CIVIL_Solteiro",
+        "Divorciado": "ESTADO_CIVIL_Divorciado",
+        "Viuvo": "ESTADO_CIVIL_Viuvo"
+    },
+    "encoder_outra_renda": {
+        "N\u00e3o": 0,
+        "Sim": 1
+    },
+    "scaler_x": {
+        "mean": [
+            2.05945724805673,
+            0.9560889131324151,
+            1.2955134324287467,
+            1.1047320332742396,
+            0.4562934678849039,
+            0.8345833901540979,
+            235245.4657029865,
+            0.20223646529387698,
+            640.4200190917769,
+            0.386472112368744,
+            8219.101911210282,
+            0.9397245329333151,
+            40782.08100368198,
+            159431.7923541979,
+            5526.220416596891,
+            31749.62498295377,
+            1.8750852311468702,
+            1.9090413200600027
+        ],
+        "scale": [
+            1.286677989309008,
+            0.8073591551497703,
+            0.9100123700031945,
+            0.9712606789548087,
+            0.49808607594518445,
+            0.9455624359244655,
+            263405.3570646075,
+            0.4016676205512656,
+            1296.1154977015494,
+            0.4869408780642522,
+            5786.611480547055,
+            0.809846522554503,
+            47302.453721892765,
+            154954.33221419447,
+            6656.671960787693,
+            37676.70275354428,
+            1.3647276900682694,
+            1.387556993028476
+        ]
+    },
+    "metadata": {
+        "tipo_encoder": {
+            "onehot": [
+                "UF",
+                "ESTADO_CIVIL"
+            ],
+            "label": [
+                "ESCOLARIDADE",
+                "CASA_PROPRIA",
+                "OUTRA_RENDA",
+                "TRABALHANDO_ATUALMENTE"
+            ],
+            "scaler": [
+                "UF",
+                "ESCOLARIDADE",
+                "ESTADO_CIVIL",
+                "QT_FILHOS",
+                "CASA_PROPRIA",
+                "QT_IMOVEIS",
+                "VL_IMOVEIS",
+                "OUTRA_RENDA",
+                "OUTRA_RENDA_VALOR",
+                "TRABALHANDO_ATUALMENTE",
+                "ULTIMO_SALARIO",
+                "QT_CARROS",
+                "VALOR_TABELA_CARROS",
+                "VLM_IMOVEIS",
+                "RENDA_TOTAL",
+                "VM_VEICULOS",
+                "IDADE_discretized",
+                "TEMPO_ULTIMO_EMPREGO_MESES_discretized"
+            ]
+        },
+        "discretization": {
+            "equal_frequency": [
+                "IDADE",
+                "TEMPO_ULTIMO_EMPREGO_MESES"
+            ]
+        },
+        "scaler": {
+            "standard": [
+                "UF",
+                "ESCOLARIDADE",
+                "ESTADO_CIVIL",
+                "QT_FILHOS",
+                "CASA_PROPRIA",
+                "QT_IMOVEIS",
+                "VL_IMOVEIS",
+                "OUTRA_RENDA",
+                "OUTRA_RENDA_VALOR",
+                "TRABALHANDO_ATUALMENTE",
+                "ULTIMO_SALARIO",
+                "QT_CARROS",
+                "VALOR_TABELA_CARROS",
+                "VLM_IMOVEIS",
+                "RENDA_TOTAL",
+                "VM_VEICULOS",
+                "IDADE_discretized",
+                "TEMPO_ULTIMO_EMPREGO_MESES_discretized"
+            ]
+        }
+    }
+}
